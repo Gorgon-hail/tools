@@ -1,1 +1,5 @@
-# tools
+Public Key: 03d3e2c4d7752bdbd5fd05e1462445bccd139cc98cf08a33a109c64f6514c544ab
+
+Wallet Key: 13GLVkDbDqw67xQKdjsrdeb6THU3GodMHQ
+
+Private Key: 93c294a28332b7395fb42530e60ceb687df833ba46c478d61d50286b8a6351a7
